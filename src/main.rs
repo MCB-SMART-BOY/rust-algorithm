@@ -1,5 +1,5 @@
 mod leetcode;
 
 fn main() {
-    leetcode::trap::test();
+    leetcode::lols::test();
 }
