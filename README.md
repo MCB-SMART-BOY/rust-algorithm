@@ -234,8 +234,8 @@ rustup default stable // 这里开始自动下载 rust 相关的工具链（真t
 ### 克隆项目
 
 ```bash
-git clone https://github.com/MCB-SMART-BOY/my_test.git
-cd my_test
+git clone https://github.com/MCB-SMART-BOY/rust-algorithm.git
+cd rust-algorithm
 ```
 
 ---
