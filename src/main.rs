@@ -2,6 +2,6 @@
 mod leetcode;
 
 fn main() {
-    leetcode::msw::test();
+    leetcode::min_window::test();
     // hdu::test::test();
 }
