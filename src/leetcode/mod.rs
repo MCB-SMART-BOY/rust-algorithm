@@ -10,4 +10,5 @@
 // pub mod two_sum;
 // pub mod msw;
 // pub mod min_window;
-pub mod max_sub_array;
+// pub mod max_sub_array;
+pub mod merge;

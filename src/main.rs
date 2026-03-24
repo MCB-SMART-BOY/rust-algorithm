@@ -2,6 +2,6 @@
 mod leetcode;
 
 fn main() {
-    leetcode::max_sub_array::test();
+    leetcode::merge::test();
     // hdu::test::test();
 }
