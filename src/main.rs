@@ -2,6 +2,6 @@
 mod leetcode;
 
 fn main() {
-    leetcode::rotate::test();
+    leetcode::pes::test();
     // hdu::test::test();
 }
